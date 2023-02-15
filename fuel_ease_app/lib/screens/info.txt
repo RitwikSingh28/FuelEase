@@ -1,0 +1,3 @@
+This folder is to contain all the screens code
+
+To test out your page, just change the home property in MaterialApp in main.dart itself
